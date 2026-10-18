@@ -37,3 +37,4 @@ summary(model, input_size=(1, 784))
 ## License
 
 LogLU_Pytorch is released under the [Apache License 2.0](https://github.com/Rishichaitanya-Nalluri/loglu-pytorch/blob/main/LICENSE).
+# loglu-pytorch
