@@ -10,7 +10,7 @@ setup(
     author= 'Murumuri Naga Poorni ',
     author_email='poorni.m0405@gmail.com',
     packages=find_packages(),
-    url='https://github.com/XenReZ/LogLU-PyTorch',
+    url='https://github.com/Rishichaitanya-Nalluri/loglu-pytorch',
     license="Apache-2.0",
     install_requires=[ 
         "torch>=1.6.0"
